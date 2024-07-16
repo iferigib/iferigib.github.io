@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iferigib.github.io/sitemap
+Sitemap: https://iferigib.github.io/app/sitemap
+Sitemap: https://iferigib.github.io/assets/sitemap
+Sitemap: https://iferigib.github.io/css/sitemap
+Sitemap: https://iferigib.github.io/includes/sitemap
+Sitemap: https://iferigib.github.io/item/sitemap
+Sitemap: https://iferigib.github.io/src/sitemap
